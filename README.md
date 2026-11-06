@@ -77,3 +77,21 @@ Dipti
 
 **Project:** E-Commerce & Retail Business Intelligence  
 **Domain:** Data Analytics & Business Intelligence
+
+## Project Resources
+
+- [SQL Scripts](SQL/)
+- [Project Documentation](Documentation/)
+- [Dashboard Screenshots](Screenshots/)
+- [Download Power BI Dashboard](ECommerce_Retail_Business_Intelligence.pbix)
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Screenshots/Executive_Overview.png)
+
+### Sales & Product Analysis
+![Sales & Product Analysis](Screenshots/Sales_Product_Analysis.png)
+
+### Customer & Returns Analysis
+![Customer & Returns Analysis](Screenshots/Customer_Returns_Analysis.png)
