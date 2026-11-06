@@ -82,7 +82,7 @@ Dipti
 
 - [SQL Scripts](SQL/)
 - [Project Documentation](Documentation/)
-- [Dashboard Screenshots](Screenshots/)
+- [Dashboard Screenshots](Dashboard%20Screenshot/)
 - [Download Power BI Dashboard](ECommerce_Retail_Business_Intelligence.pbix)
 
 ## Dashboard Preview
