@@ -77,7 +77,6 @@ Dipti
 
 **Project:** E-Commerce & Retail Business Intelligence  
 **Domain:** Data Analytics & Business Intelligence
-
 ## Project Resources
 
 - [SQL Scripts](SQL/)
@@ -88,10 +87,10 @@ Dipti
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Dashboard%20Screenshot/Executive_Overview.png)
+![Executive Overview](<Dashboard Screenshot/Screenshot 2026-11-06 180850.png>)
 
 ### Sales & Product Analysis
-![Sales & Product Analysis](Dashboard%20Screenshot/Sales_Product_Analysis.png)
+![Sales & Product Analysis](<Dashboard Screenshot/Screenshot 2026-11-06 180914.png>)
 
 ### Customer & Returns Analysis
-![Customer & Returns Analysis](Dashboard%20Screenshot/Customer_Returns_Analysis.png)
+![Customer & Returns Analysis](<Dashboard Screenshot/Screenshot 2026-11-06 180934.png>)
