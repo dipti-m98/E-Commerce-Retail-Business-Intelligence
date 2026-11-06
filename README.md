@@ -88,10 +88,10 @@ Dipti
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Dashboard%20Screenshot/Executive_Overview.png)
 
 ### Sales & Product Analysis
-![Sales & Product Analysis](Screenshots/Sales_Product_Analysis.png)
+![Sales & Product Analysis](Dashboard%20Screenshot/Sales_Product_Analysis.png)
 
 ### Customer & Returns Analysis
-![Customer & Returns Analysis](Screenshots/Customer_Returns_Analysis.png)
+![Customer & Returns Analysis](Dashboard%20Screenshot/Customer_Returns_Analysis.png)
